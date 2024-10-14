@@ -1,1 +1,1 @@
-# .github
+SMLC is an initiative to facilitate the incorporation or refinement of high performance machine learning ("AI") models in scientific works. Bespoke data modeling solutions to produce publication quality results.
